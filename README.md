@@ -1,2 +1,1 @@
-# codechef-problems
-This repository contains solutions different problems from codechef along with their links.
+This repository contains solutions of different problems available on onlibe platforms for competitive programming along with their links.
